@@ -576,7 +576,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: _scaleText(10).fontSize,
     paddingVertical: _scaleText(5).fontSize,
     backgroundColor: PARTIES_TAB_COLOR,
-    color: STATUS_BAR_PRIMARY_COLOR,
+    color: '#000000',
     fontWeight: '800',
     fontSize: _scaleText(18).fontSize,
   },

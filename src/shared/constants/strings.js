@@ -59,7 +59,7 @@ export const TEXT_CONST = {
   },
   INSTAGRAM_ROUTE_URL: 'https://www.instagram.com/',
   TWITTER_ROUTE_URL: 'https://mobile.twitter.com/',
-  ANDROID_APP_URL: 'https://play.google.com/store/apps/details?id=com.collyde.mavericks.app',
+  ANDROID_APP_URL: 'https://play.google.com/store/apps/details?id=com.collyde.suns.app',
   IOS_APP_URL: 'https://apps.apple.com/us/app/collydeparty/id1526259723'
 };
 

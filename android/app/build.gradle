@@ -130,7 +130,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.collyde.mavericks.app"
+        applicationId "com.collyde.suns.app"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
