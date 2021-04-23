@@ -1,0 +1,17 @@
+import {
+  INIT_OPEN_CHANNEL,
+  OPEN_CHANNEL_PROGRESS_START,
+  OPEN_CHANNEL_PROGRESS_END,
+  OPEN_CHANNEL_LIST_SUCCESS,
+  OPEN_CHANNEL_LIST_FAIL,
+  GET_OPEN_CHANNEL_SUCCESS,
+  GET_OPEN_CHANNEL_FAIL,
+  ADD_OPEN_CHANNEL_ITEM,
+  CLEAR_ADD_OPEN_CHANNEL,
+  CLEAR_SELECTED_OPEN_CHANNEL
+} from './types';
+import { sbGetOpenChannel } from './sendbirdActions';
+
+export const initOpenChannel = () => {
+  return { type: INIT_OPEN_CHANNEL };
+};

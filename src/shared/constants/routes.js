@@ -1,0 +1,15 @@
+export const CHAT_SCREEN = 'CHAT_SCREEN';
+export const SPLASH_SCREEN = 'SPLASH_SCREEN';
+export const DASHBOARD_BOTTOM_TAB = 'DASHBOARD_BOTTOM_TAB';
+export const SIGN_UP_MOBILE = 'SIGN_UP_MOBILE';
+export const INITIAL_SIGNUP_SCREEN = 'INITIAL_SIGNUP_SCREEN';
+export const COMPLETE_PROFILE_SCREEN = 'COMPLETE_PROFILE_SCREEN';
+export const LEGAL_SCREEN = 'LEGAL_SCREEN';
+export const COMMUNITY_SCREEN = 'COMMUNITY_SCREEN';
+export const SUPPORT_SCREEN = 'SUPPORT_SCREEN';
+
+export const BOTTOM_TABS = {
+    PARTIES: 'Parties',
+    ROOMS: 'Rooms',
+    PROFILE: 'Profile',
+}
