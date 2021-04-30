@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>170647214018-u7vpagipki331j7kiqvdrk667a18hkdp.apps.googleusercontent.com</string>
+	<string>170647214018-ituqm9ua7sa79m9uejv0eullohclqek7.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.170647214018-u7vpagipki331j7kiqvdrk667a18hkdp</string>
+	<string>com.googleusercontent.apps.170647214018-ituqm9ua7sa79m9uejv0eullohclqek7</string>
 	<key>API_KEY</key>
 	<string>AIzaSyCbIlQlQt9y-aP73RhFbOH6ZClXRngzDas</string>
 	<key>GCM_SENDER_ID</key>
@@ -13,7 +13,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.collyde.app</string>
+	<string>com.collyde.suns.app</string>
 	<key>PROJECT_ID</key>
 	<string>collyde-revamped</string>
 	<key>STORAGE_BUCKET</key>
@@ -29,7 +29,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:170647214018:ios:682d1cd34b0a991d00a85b</string>
+	<string>1:170647214018:ios:69d24a38b1a4970600a85b</string>
 	<key>DATABASE_URL</key>
 	<string>https://collyde-revamped.firebaseio.com</string>
 </dict>
